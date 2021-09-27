@@ -1,1 +1,1 @@
-# php-symfony-training1
+# The description is being prepared 
